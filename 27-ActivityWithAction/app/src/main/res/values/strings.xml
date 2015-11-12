@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JoinLang.com</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="title_activity_info">Дополнительно</string>
+    <string name="title_activity_time">Время</string>
+    <string name="title_activity_date">Дата</string>
+</resources>

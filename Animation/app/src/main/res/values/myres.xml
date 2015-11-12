@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Заголовок</string>
+    <string name="type">Тип</string>
+    <string name="description">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отменить</string>
+    <color name="successColor">#336699</color>
+    <color name="errorColor">#336699</color>
+    <color name="warnColor">#336699</color>
+</resources>
